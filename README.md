@@ -1,2 +1,2 @@
-# RISC-V_OoO_CPU_core
+# VESTA; RISC-V OoO CPU core
 RV64IM, Out-of-Order Execution
